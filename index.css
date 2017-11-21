@@ -1,0 +1,35 @@
+#intro {
+	font-family: 'Montserrat', sans-serif;
+	padding: 30px;
+	font-weight: bold;
+}
+
+#contact{
+	padding: 30px;
+}
+
+.fa {
+  padding: 10px;
+  /*font-size: 900px;*/
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 5%;
+
+}
+
+.fa-linkedin {
+	background: grey;
+	color: white;
+}
+
+.fa-envelope {
+	background: grey;
+	color: #ffffff;
+}
+
+.fa-github {
+	background: grey;
+	color: #ffffff;
+}
