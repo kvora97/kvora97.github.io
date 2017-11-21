@@ -13,13 +13,13 @@
   	width: 30px;
   	text-align: center;
   	text-decoration: none;
-  	margin: 5px 2px;
+  	margin: 5px 3px;
   	border-radius: 5%;
 
 }
 
-.fa-hover {
-	opacity: 0.6;
+.fa:hover {
+	opacity: 0.8;
 }
 
 .fa-linkedin {
@@ -28,11 +28,16 @@
 }
 
 .fa-envelope {
-	background: #808080;
-	color: #ffffff;
+	background: #767676;
+	color: white;
 }
 
 .fa-github {
 	background: #6e5494;
+	color: white;
+}
+
+.fa-facebook {
+	background: #3B5998;
 	color: white;
 }
