@@ -8,7 +8,7 @@
 }
 
 .fa {
-  	padding: 10px;
+  	padding: 12px;
   	/*font-size: 900px;*/
   	width: 30px;
   	text-align: center;
@@ -18,17 +18,21 @@
 
 }
 
+.fa-hover {
+	opacity: 0.6;
+}
+
 .fa-linkedin {
-	background: grey;
+	background: #007bb5;
 	color: white;
 }
 
 .fa-envelope {
-	background: grey;
+	background: #808080;
 	color: #ffffff;
 }
 
 .fa-github {
-	background: grey;
-	color: #ffffff;
+	background: #6e5494;
+	color: white;
 }
