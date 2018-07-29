@@ -16,6 +16,10 @@
   	border-radius: 10%;
 }
 
+hr {
+	color: black;
+}
+
 .fa:hover {
 	opacity: 0.8;
 }
