@@ -1,9 +1,6 @@
-
-body {
-	background: ;
-}
 #intro {
 	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
 	padding: 30px;
 }
 
@@ -14,10 +11,8 @@ body {
 .fa {
   	padding: 12px;
   	/*font-size: 900px;*/
-  	width: 35px;
   	text-align: center;
-  	text-decoration: none;
-  	margin: 5px 3px;
+  	margin: 10px 6px;
   	border-radius: 10%;
 }
 
