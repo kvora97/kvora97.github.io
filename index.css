@@ -59,3 +59,11 @@ a {
 	text-decoration: none;
 	color: black;
 }
+
+dt {
+	display: inline-block;
+	padding: 5px;
+	border: 1px dotted grey;
+	border-radius: 5px;
+	margin: 0 4px 0 4px;
+}
