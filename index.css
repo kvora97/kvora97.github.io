@@ -67,3 +67,13 @@ dt {
 	border-radius: 5px;
 	margin: 0 4px 0 4px;
 }
+
+.container {
+	display: flex;
+	flex-direction: row;
+	flex: 0 1 1200px;
+}
+
+.sidebar {
+	align-self: flex-start;
+}
