@@ -77,3 +77,16 @@ dt {
 .sidebar {
 	align-self: flex-start;
 }
+
+#resume {
+	padding: 10px 25px 10px 25px;
+	border-radius: 40px;
+	border-color: ;
+	margin: 0 4px 0 4px;
+}
+
+#resume:hover {
+	border: 1px solid lightgrey;
+	background-color: lightgrey;
+	border-color: lightgrey;
+}
