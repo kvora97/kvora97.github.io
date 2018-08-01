@@ -25,23 +25,28 @@ hr {
 
 .fa:hover {
 	opacity: 0.8;
+	color: white;
+	text-decoration: none;
 }
 
 .fa-linkedin {
-	background: #007bb5;
+	background: #767676;
 	color: white;
 }
 
 .fa-envelope {
 	background: #767676;
 	color: white;
-	display: inline-block;
-	border-radius: 60px;
-	box-shadow: 0px 0px 2px #888;
-	padding: 0.5em 0.5em;}
+	padding: 0.5em 0.5em;
+}
 
 .fa-github {
-	background: #6e5494;
+	background: #767676;
+	color: white;
+}
+
+.fa-file-text {
+	background: #767676;
 	color: white;
 }
 
@@ -55,6 +60,7 @@ hr {
 	color: white;
 }
 
+
 a {
 	text-decoration: none;
 	color: black;
@@ -62,7 +68,7 @@ a {
 
 dt {
 	display: inline-block;
-	padding: 5px;
+	padding: 5px 10px 5px 10px;
 	border: 1px dotted grey;
 	border-radius: 5px;
 	margin: 0 4px 0 4px;
@@ -78,11 +84,12 @@ dt {
 	align-self: flex-start;
 }
 
-#resume {
+.resume {
 	padding: 10px 25px 10px 25px;
 	border-radius: 40px;
 	border-color: ;
 	margin: 0 4px 0 4px;
+	display: inline-block;
 }
 
 #resume:hover {
